@@ -1,0 +1,2 @@
+rootProject.name='Hotel Real Jilo'
+include ':app'
